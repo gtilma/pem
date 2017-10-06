@@ -18,6 +18,7 @@ npm-debug.log*
 tmp
 .idea
 .npmrc
+.nvmrc
 
 docs
 test/fixtures/tmp.*
